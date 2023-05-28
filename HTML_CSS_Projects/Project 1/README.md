@@ -4,7 +4,7 @@
 
 ### Tech Stack : Html and CSS
 
-### Live Url : [live]()
+### Live Url : [live](https://technoprabin.github.io/Ineuron_assignments_prabin/HTML_CSS_Projects/Project%201/)
 
 ## Screenshot :
 
